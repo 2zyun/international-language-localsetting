@@ -1,0 +1,10 @@
+/* 
+  InternationalLanguage.strings
+  InternationalLanguage
+
+  Created by Wayhouse on 16/1/17.
+  Copyright © 2016年 Wayhouse. All rights reserved.
+*/
+
+"hello world" = "I don't know how to say 'hello world' in Fanch!";
+"setting" = "Franch: setting";
